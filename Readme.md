@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/DcoumentManagerContentGenerator/Form1.cs) (VB: [Form1.vb](./VB/DcoumentManagerContentGenerator/Form1.vb))**
+<!-- default file list end -->
 # How To: Add A Control-Based Document
 
 
