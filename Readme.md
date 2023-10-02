@@ -6,7 +6,7 @@
 
 # WinForms Document Manager - Create a control-based document
 
-This example shows how to add a [Winforms Rich Text Editor](https://docs.devexpress.com/WindowsForms/4946/controls-and-libraries/rich-text-editor) to the DocumentManager as a document. The example creates a new [RichEditControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraRichEdit.RichEditControl) and docks it as a tab each time the **Add Tabbed Document** button is clicked.
+This example shows how to add a [WinForms Rich Text Editor](https://docs.devexpress.com/WindowsForms/4946/controls-and-libraries/rich-text-editor) to the DocumentManager as a document. The example creates a new [RichEditControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraRichEdit.RichEditControl) and docks it as a tab each time the **Add Tabbed Document** button is clicked.
 
 The **Remove All** button closes all documents within the view.
 
