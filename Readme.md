@@ -23,7 +23,7 @@ The **Remove All** button closes all documents within the view.
 * [Application UI Manager](https://docs.devexpress.com/WindowsForms/11359/controls-and-libraries/application-ui-manager)
 * [Tabbed View](https://docs.devexpress.com/WindowsForms/11355/controls-and-libraries/application-ui-manager/views/tabbed-view)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabbed-ui-control-based-document&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabbed-ui-control-based-document&~~~was_helpful=no)
 
